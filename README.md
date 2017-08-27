@@ -1,5 +1,5 @@
 # connect-four-ai
-Bots for connect four game, using Minimax and Monte Carlo Tree Search.
+Bots for connect four game (https://en.wikipedia.org/wiki/Connect_Four), using Minimax and Monte Carlo Tree Search.
 
 The minimax version was a submission to a Hackerearth contest (https://www.hackerearth.com/challenge/competitive/battle-of-bots-3/problems/).
 
